@@ -1,0 +1,72 @@
+/****** Main Styling ******/
+
+body {
+	font-family: monospace;
+	font-size: 16px;
+	color: #222;
+	background-color: #E5E5E5;
+	text-align: center;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.example {
+  padding: 20px;
+  background-color: #434343;
+  border: 1px solid darkgray;
+  margin: auto;
+  max-width: 800px;
+}
+
+p {
+  color: #F2C94C;
+  font-weight: bold;
+}
+
+.example h3 {
+  font-weight: bold;
+  color: #F2C94C;
+}
+
+span a {
+  color: #E5E5E5;
+  weight: 400;
+  text-decoration: none;
+}
+
+.focus {
+  font-weight: bold;
+  color: white;
+  text-decoration: underline;
+}
+
+.code {
+  font-family: monospace;
+  color: #219653;
+  font-weight: bold;
+}
+
+.footer {
+	margin-top: 60px;
+}
+
+ol {
+	list-style-position: inside;
+}
+ul {
+	list-style-type: none;
+}
+
+a {
+	color: #2574A9;
+}
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
